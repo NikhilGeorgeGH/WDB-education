@@ -1,0 +1,240 @@
+/* CSS for proj1 site */
+
+    .insideborder {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .topborderbox{
+/*        position: absolute;*/
+        width: 1379px;
+        height: 61px;
+/*        left: 28px;
+        top: 17px;*/
+        background: #005671;
+        border: 8px solid #000000;
+        box-sizing: border-box;
+    }
+
+    .bottomborderbox{
+/*        position: absolute;*/
+        width: 1379px;
+        height: 61px;
+/*        left: 28px;
+        top: 1216px;*/
+        background: #005671;
+        border: 8px solid #000000;
+        box-sizing: border-box;
+    }
+
+    .rowbox {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    .tempstackbox {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .introbox {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        width: 760px;
+        height: 362px;
+        margin: 10px;
+        border: 8px solid #000000;
+        box-sizing: border-box;
+    }
+
+    .aboutbox {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 40px;
+        padding-right: 30px;
+        width: 594px;
+        height: 362px;
+        margin: 10px;
+        border: 8px solid #000000;
+        box-sizing: border-box;
+    }
+
+    .projexpbox {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding-left: 40px;
+        width: 371px;
+        height: 200px;
+        margin: 10px;
+        border: 8px solid #000000;
+        box-sizing: border-box;
+    }
+
+    .fillerbox {
+        width: 371px;
+        height: 124px;
+        margin: 10px;
+        background: #005671;
+        border: 8px solid #000000;
+        box-sizing: border-box;
+    }
+
+    .proj1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 40px;
+        padding-right: 30px;
+        width: 33.3%;
+        background: #2D8FAD;
+        border: 4px solid #000000;
+        box-sizing: border-box;
+    }
+
+    .proj2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 40px;
+        padding-right: 30px;
+        width: 33.3%;
+        background: #5EAAC2;
+        border: 4px solid #000000;
+        box-sizing: border-box;
+    }
+
+    .proj3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 40px;
+        padding-right: 30px;
+        width: 33.4%;
+        background: #78CAE4;
+        border: 4px solid #000000;
+        box-sizing: border-box;
+    }
+
+    .projects {
+        display: flex;
+        flex-direction: row;
+        width: 986px;
+        height: 344px;
+        margin: 10px;
+        border: 4px solid #000000;
+        box-sizing: border-box;
+    }
+
+    .goalbox {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 40px;
+        padding-right: 30px;
+        width: 1007px;
+        height: 344px;
+        margin: 10px;
+        border: 8px solid #000000;
+        box-sizing: border-box;
+    }
+
+    .contact {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        width: 349px;
+        height: 344px;
+        margin: 10px;
+        border: 8px solid #000000;
+        box-sizing: border-box;
+    }
+
+    .introtext {
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 40px;
+        line-height: 51px;
+        width: 50%;
+    }
+
+    .aboutheader {
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 40px;
+        line-height: 51px;
+    }
+
+    .abouttext {
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 26px;
+        line-height: 33px;
+    }
+
+    .projexp {
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 48px;
+        line-height: 61px;
+    }
+
+    .projheader {
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 48px;
+        line-height: 61px;
+
+    }
+
+    .proj1text {
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 26px;
+        line-height: 33px;
+    }
+
+    .proj2text {
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 26px;
+        line-height: 33px;
+    }
+
+    .proj3text {
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .projtextbox {
+        height: 75%;
+    }
+
+    .contactbox {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 40px: 
+        padding-right: 40px;
+
+    }
+
